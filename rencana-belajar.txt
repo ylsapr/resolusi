@@ -3,4 +3,5 @@ RENCANA BELAJAR
 - HTML
 - CSS
 - JavaScript
-- PHP
+  * Framework JavaScript
+    ^ Angular
