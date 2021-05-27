@@ -4,5 +4,6 @@ RENCANA BELAJAR
 - CSS
 - JavaScript
   * Framework JavaScript
+  ^ Vue
 - PHP
 - Python
